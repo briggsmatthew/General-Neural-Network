@@ -1,6 +1,6 @@
 # General Neural Network
 
-A basic linear regression neural network designed in Python with numpy.
+A basic neural network designed in Python with numpy.
 
 The file `main.py` provides the `NeuralNetwork` class which allows a user to
 initialize a network with any number of layers and nodes. After training (ie. 
